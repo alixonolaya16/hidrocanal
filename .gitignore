@@ -1,0 +1,19 @@
+# Entorno virtual y caché de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Base de datos de trabajo y reportes generados por la aplicación
+datos/
+*.db
+reportes/
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+~$*.docx
+.vscode/
+.idea/
